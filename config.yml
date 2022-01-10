@@ -1,0 +1,19 @@
+baseUrl: "docs.phtemr.io"
+copyright: "Copyright &copy; 2021-2022<br>Providence HealthTech.<br>All Rights Reserved."
+defaultContentLanguage: "en"
+defaultContentLanguageInSubdir: true
+disableHugoGeneratorInject: true
+enableEmoji: true
+paginate: 25
+timeZone: "America/New_York"
+title: "Azul Wasi OpenEMR Pocket Guide"
+theme: "github.com/providencehealthtech/hugo-theme-learn"
+params:
+  themeVariant: pht
+outputs:
+  home:
+    - html
+    - rss
+    - json
+modules:
+  replacements: "github.com/providencehealthtech/hugo-theme-learn -> ../../hugo-theme-learn"
