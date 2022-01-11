@@ -16,6 +16,6 @@ outputs:
     - rss
     - json
 modules:
-  replacements: "github.com/providencehealthtech/hugo-theme-learn -> ../../hugo-theme-learn"
+  # replacements: "github.com/providencehealthtech/hugo-theme-learn -> ../../hugo-theme-learn"
   imports:
     - path: github.com/providencehealthtech/hugo-hero-theme
