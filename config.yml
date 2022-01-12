@@ -7,15 +7,7 @@ enableEmoji: true
 paginate: 25
 timeZone: "America/New_York"
 title: "Azul Wasi OpenEMR Pocket Guide"
-theme: "github.com/providencehealthtech/hugo-theme-learn"
+theme: "hugo-geekdoc"
 params:
-  themeVariant: pht
-outputs:
-  home:
-    - html
-    - rss
-    - json
-modules:
-  # replacements: "github.com/providencehealthtech/hugo-theme-learn -> ../../hugo-theme-learn"
-  imports:
-    - path: github.com/providencehealthtech/hugo-hero-theme
+  # geekdocDarkModeDim: true
+  # geekdocMenuBundle: true

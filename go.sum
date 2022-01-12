@@ -2,3 +2,5 @@ github.com/gohugoio/gohugoioTheme v0.0.0-20211211134334-0fe25799bb58 h1:Cxa8MQVz
 github.com/gohugoio/gohugoioTheme v0.0.0-20211211134334-0fe25799bb58/go.mod h1:kpw3SS48xZvLQGEXKu8u5XHgXkPvL8DX3oGa07+z8Bs=
 github.com/providencehealthtech/hugo-theme-learn v0.0.0-20211028190410-e817f53d690d h1:kWblnjxPntanpvjFgYVh9JIvgAutjPe67Ri/Lf8dcOw=
 github.com/providencehealthtech/hugo-theme-learn v0.0.0-20211028190410-e817f53d690d/go.mod h1:xeehrvsYrwy7hjKzZxOOYHXC9RGxZE74YjS+R6KH09g=
+github.com/thegeeklab/hugo-geekdoc v0.22.2 h1:sSxfyGqrzSsdbWlvmHiHYdkFjpEzAYYqmG+cws8dGEk=
+github.com/thegeeklab/hugo-geekdoc v0.22.2/go.mod h1:XEAtAuJ3nRMshRupMW1xPZ7EVMleS87rmr+RklRamRY=

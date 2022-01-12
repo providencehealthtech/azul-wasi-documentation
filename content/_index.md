@@ -8,4 +8,4 @@ which has been customized to meet the needs of the Azul Wasi orphanage. This gui
 in the software including adding new children, finding children, and entering allergies, medical problems, and other
 pertinant information.
 
-{{% children depth=999 %}}
+{{< toc-tree >}}
